@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="correct_answer">Brawo! Wspaniale!</string>
+    <string name="incorrect_answer">Zla odpowiedz!</string>
+
+    <!-- Pytania -->
+    <string name="q_1">Czy hitler wiedział o Holocaustcie?</string>
+    <string name="q_2">Czy polacy zmądrzeli po 8 latach?</string>
+    <string name="q_3">W życiu są pewne tylko śmierć i podatki?</string>
+    <string name="q_4">Jestem najlepszą wersją siebie?</string>
+    <string name="q_5">Czy skok z 5 metrów jest bezpieczny?</string>
+</resources>
