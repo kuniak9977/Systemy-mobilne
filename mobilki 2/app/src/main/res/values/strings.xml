@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fasz</string>
+    <string name="button_next">Nastepne</string>
+
+    <string name="q_1">Czy hitler wiedział o Holocaustcie?</string>
+    <string name="q_2">Czy polacy zmądrzeli po 8 latach?</string>
+    <string name="q_3">W życiu są pewne tylko śmierć i podatki?</string>
+    <string name="q_4">Jestem najlepszą wersją siebie?</string>
+    <string name="q_5">Czy skok z 5 metrów jest bezpieczny?</string>
+
+    <string name="correct_answer">Poprawna odpowiedz.</string>
+    <string name="incorrect_answer">Odpowiedz niepoprawna.</string>
+    <string name="quiz_result">Twój wynik to: %1$d / %2$d</string>
+
+    <string name="see_answer_text">Czy na pewno chcesz zobaczyć odpowiedź?</string>
+    <string name="see_answer_button">Pokaz odpowiedz</string>
+
+    <string name="QUIZ_TAG">Wywolana zostala metoda cyklu zycia:</string>
+
+    <string name="answer_was_shown">Odpowiedz byla juz wyswietlona!</string>
+
+</resources>
